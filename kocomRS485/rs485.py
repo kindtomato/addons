@@ -23,6 +23,7 @@ SW_VERSION = 'RS485 Compilation 1.0.3b'
 # Log Level
 CONF_LOGLEVEL = 'info' # debug, info, warn
 
+print("버전")
 print(mqtt.__version__)
 
 ###############################################################################################################
